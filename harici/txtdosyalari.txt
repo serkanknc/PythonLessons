@@ -1,0 +1,3 @@
+Dosya adı: mailler.txt
+Dosya adı: metin.txt
+Dosya adı: şiir.txt
